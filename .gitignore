@@ -1,0 +1,12 @@
+# my report
+report.pdf
+report.docx
+
+# source picture and submit file
+*.zip
+
+# output picture
+output
+
+# ipynb_checkpoints 
+.ipynb_checkpoints
